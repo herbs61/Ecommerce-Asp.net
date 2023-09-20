@@ -48,12 +48,12 @@ namespace EcommerceWithAngularWeb.Services.Repositories
 
         public void Save()
         {
-            throw new NotImplementedException();
+            _context.SaveChanges();
         }
 
         public void Update(Category category)
         {
-            throw new NotImplementedException();
+            _context.Categories.Update(category);
         }
     }
 }
