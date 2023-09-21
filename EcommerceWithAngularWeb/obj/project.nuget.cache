@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/3Hi6pKFj7qMzGTpNC/FfSKM5T4Rr7pbfmKUaLlMQZgEkxznjK5UDZS3B9Ku+2F7mFbCSaQ4r+bRL4Au4H9QKg==",
+  "dgSpecHash": "RWLmAA0XTDy9g3piIosPhzllMrkK5O2rVXJ9A1aAZrSGWV58pofzzVvy1Lo7mGy+tjr257YklusRwWtp7PVkkg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Herbert Owusu\\source\\repos\\EcommerceWithAngularWeb\\EcommerceWithAngularWeb\\EcommerceWithAngularWeb.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Herbert Owusu\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.22\\microsoft.aspnetcore.cryptography.internal.6.0.22.nupkg.sha512",
+    "C:\\Users\\Herbert Owusu\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.22\\microsoft.aspnetcore.cryptography.keyderivation.6.0.22.nupkg.sha512",
+    "C:\\Users\\Herbert Owusu\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.22\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.22.nupkg.sha512",
     "C:\\Users\\Herbert Owusu\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Herbert Owusu\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Herbert Owusu\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
@@ -17,6 +20,8 @@
     "C:\\Users\\Herbert Owusu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Herbert Owusu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
     "C:\\Users\\Herbert Owusu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Herbert Owusu\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.22\\microsoft.extensions.identity.core.6.0.22.nupkg.sha512",
+    "C:\\Users\\Herbert Owusu\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.22\\microsoft.extensions.identity.stores.6.0.22.nupkg.sha512",
     "C:\\Users\\Herbert Owusu\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
     "C:\\Users\\Herbert Owusu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Herbert Owusu\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
